@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Don't ignore directories
+!*/
+
+# Keep C++ source files
+!*.cpp
+
+# Keep the .gitignore file
+!.gitignore
+
+!README.md
+
+!*.h
+!*.hpp
